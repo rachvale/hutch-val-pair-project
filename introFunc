@@ -1,0 +1,18 @@
+'''
+Introduction function
+'''
+
+def intro():
+    print('Good morning')
+    input('What a weird dream you woke from, huh?')
+    input('Maybe once you open your eyes ...')
+    input('You will see something IS a little off ...')
+    input('Your bedroom is looking a little like ...')
+    print('     ___  __   ____   __     __')
+    print('    /  / /  / / ___/ / /    / /')
+    print('   /  /_/  / / /__  / /    / /')
+    print('  /  __   / /  __/ / /    / /')
+    print(' /  / /  / /  /_  / /___ / /__')
+    print('/__/ /__/ /____/ /_____//_____/')
+
+intro()
